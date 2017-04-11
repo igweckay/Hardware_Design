@@ -1,0 +1,1 @@
+<b>Low Pass Filter + Notch Filter at ~60Hz</b><p>Used a Sallen Key Low pass 3rd order topology (2). Used a Twin-T Notch Filter Design for the notch filter </p>
